@@ -1,1 +1,9 @@
+<style>
+  .bg{
+    backgroud-image:url(test.jpg);
+    backgroud-repeat:repeat;
+   }
+</style>
+<body class="bg">
 <h1 align="center">欢迎来到小李的世界</h1>
+</body>
