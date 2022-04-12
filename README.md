@@ -1,2 +1,2 @@
 # Index
-#This is my static website ,just for fun
+This is my static website ,just for fun
